@@ -21,7 +21,7 @@ This project took about 2 hours to build using basic knowledge of html,css,java
 
 **Demo**
 
-https://stackx64.github.io/TIC-TAC-TOE/ 
+(https://he-manxcodes22.github.io/TIC-TAC-TOE/)
 
 Development
 
